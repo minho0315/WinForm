@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\WinForm\UsingControls\bin\Debug\UsingControls.exe.config
+C:\Users\Administrator\source\repos\WinForm\UsingControls\bin\Debug\UsingControls.exe
+C:\Users\Administrator\source\repos\WinForm\UsingControls\bin\Debug\UsingControls.pdb
+C:\Users\Administrator\source\repos\WinForm\UsingControls\obj\Debug\UsingControls.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\WinForm\UsingControls\obj\Debug\UsingControls.MainForm.resources
+C:\Users\Administrator\source\repos\WinForm\UsingControls\obj\Debug\UsingControls.Properties.Resources.resources
+C:\Users\Administrator\source\repos\WinForm\UsingControls\obj\Debug\UsingControls.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\WinForm\UsingControls\obj\Debug\UsingControls.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WinForm\UsingControls\obj\Debug\UsingControls.exe
+C:\Users\Administrator\source\repos\WinForm\UsingControls\obj\Debug\UsingControls.pdb

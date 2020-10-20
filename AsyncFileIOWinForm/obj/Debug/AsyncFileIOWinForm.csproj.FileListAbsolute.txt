@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\WinForm\AsyncFileIOWinForm\bin\Debug\AsyncFileIOWinForm.exe.config
+C:\Users\Administrator\source\repos\WinForm\AsyncFileIOWinForm\bin\Debug\AsyncFileIOWinForm.exe
+C:\Users\Administrator\source\repos\WinForm\AsyncFileIOWinForm\bin\Debug\AsyncFileIOWinForm.pdb
+C:\Users\Administrator\source\repos\WinForm\AsyncFileIOWinForm\obj\Debug\AsyncFileIOWinForm.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\WinForm\AsyncFileIOWinForm\obj\Debug\AsyncFileIOWinForm.MainForm.resources
+C:\Users\Administrator\source\repos\WinForm\AsyncFileIOWinForm\obj\Debug\AsyncFileIOWinForm.Properties.Resources.resources
+C:\Users\Administrator\source\repos\WinForm\AsyncFileIOWinForm\obj\Debug\AsyncFileIOWinForm.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\WinForm\AsyncFileIOWinForm\obj\Debug\AsyncFileIOWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WinForm\AsyncFileIOWinForm\obj\Debug\AsyncFileIOWinForm.exe
+C:\Users\Administrator\source\repos\WinForm\AsyncFileIOWinForm\obj\Debug\AsyncFileIOWinForm.pdb
